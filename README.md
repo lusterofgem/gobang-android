@@ -8,4 +8,4 @@ You need android studio to open this project.
 
 ## status
 
-webview javascript not working when the app deploy on android phone 🚧
+webview javascript not working when the app deploy on android(8.1.0) phone 🚧
